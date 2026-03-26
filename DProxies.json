@@ -1,6 +1,7 @@
 {
   "wifi": [
     "tg://proxy?server=72.57.78.82&port=5443&secret=ddf5199e949c0f23bc887581218ad8c1e6",
+    "tg://proxy?server=72.57.78.98&port=5443&secret=ddf5199e949c0f23bc887581218ad8c1e6",
     "tg://proxy?server=72.57.78.130&port=5443&secret=ddf5199e949c0f23bc887581218ad8c1e6"
   ],
   "inet": [
