@@ -6,6 +6,9 @@
         "tg://proxy?server=72.57.78.138&port=5443&secret=ddf5199e949c0f23bc887581218ad8c1e6",
         "tg://proxy?server=72.57.78.42&port=5443&secret=ddf5199e949c0f23bc887581218ad8c1e6",
         "tg://proxy?server=72.57.78.90&port=5443&secret=ddf5199e949c0f23bc887581218ad8c1e6",
+        "tg://proxy?server=93.189.228.56&port=443&secret=ddeef2f44e0cc16ad0e07ae25f665aac5c",
+        "tg://proxy?server=178.236.245.10&port=443&secret=dd6d4bdb313942c2c80a16431392d89816",
+        "tg://proxy?server=212.233.88.232&port=443&secret=dd8248a72e460a5da4bdf6bb11d9579487",
         "tg://proxy?server=72.57.79.74&port=5443&secret=ddf5199e949c0f23bc887581218ad8c1e6"
     ],
     "inet":  [
