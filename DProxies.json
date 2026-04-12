@@ -2,18 +2,9 @@
     "wifi":  [
     ],
     "inet":  [
-        "tg://proxy?server=84.201.173.20&port=443&secret=ee9b31714333fcb181199fc46f9cb8068d",
-        "tg://proxy?server=84.201.175.172&port=443&secret=eeaa75a8a4ec212a73cc82adf60a53a01a",
-        "tg://proxy?server=89.208.220.9&port=1984&secret=eec76b8cb6d99f20a7c1a3ef1b67bbb070",
-        "tg://proxy?server=217.16.30.248&port=5223&secret=ee7ae73ddfd70b8e549aae657b4da1bf03",
-        "tg://proxy?server=212.233.89.91&port=443&secret=ddf4b54d805ffeff430be106aa80d94f7f",
-        "tg://proxy?server=37.139.43.127&port=443&secret=eeb285acf6a421f66307553c586aadd6ad6d61782e7275",
-        "tg://proxy?server=89.208.199.56&port=443&secret=ddb4b54ddf0b9f3b82dd7b4a5a888ea82d",
-        "tg://proxy?server=146.185.241.89&port=443&secret=ddc351841a608cca24813a321aa080bc91",
-        "tg://proxy?server=217.16.31.191&port=8443&secret=dd6d3e85924d0bb97a80fe2adec858ed0e",
-        "tg://proxy?server=217.16.30.199&port=5223&secret=ee7ae73ddfd70b8e549aae657b4da1bf03",
-        "tg://proxy?server=217.16.25.63&port=443&secret=dd92fd778b5aeaa3306968ab88f2f966f5",
-        "tg://proxy?server=84.201.175.61&port=443&secret=ddeead24ce88888cf6231e908ca911628e"
-
+        "tg://proxy?server=109.120.189.84&port=443&secret=dddcaae509a2455bbfc6165f1708fd5c58",
+        "tg://proxy?server=109.120.189.84&port=443&secret=dddcaae509a2455bbfc6165f1708fd5c58",
+        "tg://proxy?server=158.160.89.92&port=8443&secret=ddcb61a5e6b1de2b852574258797bd7439",
+        "tg://proxy?server=158.160.231.50&port=3443&secret=eee705424972b7bba02296bb03856d3837"
     ]
 }
