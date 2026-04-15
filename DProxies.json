@@ -2,15 +2,15 @@
     "wifi":  [
     ],
     "inet":  [
+        "tg://proxy?server=5.188.143.124&port=443&secret=ee59ecc03bfbc542556d7ea2919d688663",
         "tg://proxy?server=109.120.189.84&port=443&secret=dddcaae509a2455bbfc6165f1708fd5c58",
-        "tg://proxy?server=185.241.193.96&port=8443&secret=ee1cd3c5be511d2b18516ec472e6fc37b8",
-        "tg://proxy?server=158.160.245.212&port=443&secret=dd398e9112420ca2ad72bac8bfd851ff42",
-        "tg://proxy?server=158.160.245.131&port=17372&secret=ee314ce48f4f975874163a7961444c3b66",
-        "tg://proxy?server=158.160.156.91&port=443&secret=ee02567895943d8069be957f7058fa8aed",
-        "tg://proxy?server=158.160.198.209&port=443&secret=eeb968de5d8c88024af77ee0ed494abb74",
-        "tg://proxy?server=130.193.35.237&port=443&secret=eea8e84b0bdd918ad1aa18e8380b24690a",
-        "tg://proxy?server=158.160.231.50&port=3443&secret=eee705424972b7bba02296bb03856d3837",
-        "tg://proxy?server=85.192.32.50&port=443&secret=dd5f3f0e63b28e7e9884b872748e8425ba",
-        "tg://proxy?server=94.139.245.4&port=443&secret=ddfaffb4eec19f3fce5f63acc248ce1c09"
+        "tg://proxy?server=51.250.3.231&port=443&secret=ddee6d61782e7275e467763b2a1379ff21",
+        "tg://proxy?server=85.192.32.50&port=443&secret=ee5f3f0e63b28e7e9884b872748e8425ba",
+        "tg://proxy?server=89.169.133.170&port=443&secret=ee28ed0c814a97362df6fed7339922e795",
+        "tg://proxy?server=51.250.30.129&port=443&secret=ee2f23604857121c44e119a4b9a1af939d7777772e636c6f7564666c6172652e636f6d",
+        "tg://proxy?server=158.160.145.58&port=10443&secret=eee7b7ae25defab0e07be5d30fadbfc105",
+        "tg://proxy?server=5.188.143.193&port=443&secret=ee59ecc03bfbc542556d7ea2919d688663",
+        "tg://proxy?server=51.250.89.154&port=443&secret=ee6d308bbd1b3b1fae56e334750ecf2f606164732e78352e7275",
+        "tg://proxy?server=158.160.191.110&port=443&secret=eeee79612e72756265658bf9613d81606e"
     ]
 }
